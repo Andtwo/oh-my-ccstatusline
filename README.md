@@ -30,10 +30,10 @@ It is designed to keep the most useful session information visible without turni
 
 ## Installation
 
-1. Copy `island_breeze_statusline.py` to your Claude directory:
+1. Copy `cc_colorful_statusline.py` to your Claude directory:
 
 ```bash
-cp island_breeze_statusline.py ~/.claude/island_breeze_statusline.py
+cp cc_colorful_statusline.py ~/.claude/cc_colorful_statusline.py
 ```
 
 2. Add this to `~/.claude/settings.json`:
@@ -42,7 +42,7 @@ cp island_breeze_statusline.py ~/.claude/island_breeze_statusline.py
 {
   "statusLine": {
     "type": "command",
-    "command": "python3 ~/.claude/island_breeze_statusline.py",
+    "command": "python3 ~/.claude/cc_colorful_statusline.py",
     "padding": 1,
     "refreshInterval": 2
   }
@@ -69,7 +69,7 @@ Example:
   "model": "opus[1m]",
   "statusLine": {
     "type": "command",
-    "command": "python3 ~/.claude/island_breeze_statusline.py",
+    "command": "python3 ~/.claude/cc_colorful_statusline.py",
     "padding": 1,
     "refreshInterval": 2
   }
