@@ -17,7 +17,8 @@ It is designed to keep the most useful session information visible without turni
 
 ## Preview
 
-Add a screenshot here after publishing.
+<img width="1453" height="148" alt="image" src="https://github.com/user-attachments/assets/baa93122-aabb-43cc-92b7-b47c187e47b1" />
+
 
 ## Requirements
 
