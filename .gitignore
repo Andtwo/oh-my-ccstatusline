@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# Local Claude files
+.claude/
+
+# Editor files
+.vscode/
+.idea/
